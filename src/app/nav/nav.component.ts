@@ -10,6 +10,6 @@ import { MatToolbarModule } from '@angular/material/toolbar';
   styleUrl: './nav.component.scss'
 })
 export class NavComponent {
-// isLoggedIn: any;
+
 
 }
